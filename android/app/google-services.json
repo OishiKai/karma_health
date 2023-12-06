@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23428522881",
+    "project_id": "karma-health",
+    "storage_bucket": "karma-health.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23428522881:android:5b1efd5f679bdddc867e80",
+        "android_client_info": {
+          "package_name": "com.example.karma_health"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChvuFcCpVyOofobf-dtzb2ZrIJSz4h8UA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
