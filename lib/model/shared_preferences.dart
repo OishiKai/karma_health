@@ -10,9 +10,7 @@ SharedPreferences sharedPreferences(
     throw Exception('Provider was not initialized');
 
 enum SharedPreferenceKey {
-  themeMode('theme_mode'),
-  localizationMode('localization_mode'),
-  fontFamily('font_family');
+  localizationMode('localization_mode');
 
   const SharedPreferenceKey(this.value);
   final String value;

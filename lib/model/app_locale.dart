@@ -34,7 +34,7 @@ Locale appLocale(AppLocaleRef ref) {
   }
 }
 
-/// A provider that returns the [locale] of the system.
+/// A provider that returns the locale of the system.
 @riverpod
 Stream<List<Locale>> locales(LocalesRef ref) {
   final controller = StreamController<List<Locale>>();
